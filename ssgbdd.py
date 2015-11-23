@@ -3,7 +3,7 @@
 #    Trabalho de BDD - Prof. Daniel de Oliveira - 2015/2
 #    Alunos: Larissa Oliveira
 #            Luis Fernando Nascimento
-#            Priscila
+#            Priscila Terra
 #            Radames Aragon
 #    Contato: rad.aragon@gmail.com
 
